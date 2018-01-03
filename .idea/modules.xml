@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/application-1/application-1.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/application-1/application-1.iml" group="applications/application-1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/application-1/application-1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/application-1/application-1_main.iml" group="applications/application-1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/application-1/application-1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/application-1/application-1_test.iml" group="applications/application-1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" group="applications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/component-1/component-1.iml" filepath="$PROJECT_DIR$/.idea/modules/components/component-1/component-1.iml" group="components/component-1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/component-1/component-1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/components/component-1/component-1_main.iml" group="components/component-1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/component-1/component-1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/components/component-1/component-1_test.iml" group="components/component-1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/components.iml" filepath="$PROJECT_DIR$/.idea/modules/components/components.iml" group="components" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-dsl-example.iml" filepath="$PROJECT_DIR$/kotlin-dsl-example.iml" />
+    </modules>
+  </component>
+</project>
